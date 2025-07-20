@@ -1,0 +1,28 @@
+#top_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    border-bottom: 1px solid #ddd;
+}
+.top_header_left{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+    margin-left: 20px;
+}
+.top_header_right{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+    margin-left: 20px;
+}
+.header_top_text{
+    color: #333e48;
+    font: 400 14px "Inter", sans-serif;
+}
+.header_top_space{
+    color: #333e481a;
+}
